@@ -2,7 +2,7 @@
 
 **`Full Stack Developer • 3D Artist`**
 
-I’m a Full Stack Developer with a strong focus on building modern, responsive, and scalable web applications. I enjoy creating clean user interfaces, interactive web experiences, and performance-focused applications using modern JavaScript frameworks. Alongside development, I also have a background in 3D art and game asset creation, which helps me bring a strong sense of design and visual detail into the products I build. Currently, I’m focused on improving my skills in React, Next.js, backend development, and full stack application architecture.
+Full Stack Developer focused on creating modern and user-friendly web experiences. I mainly work with React, Next.js, Node.js, and MongoDB. I’m also familiar with 3D art and game asset creation, which gives me a strong eye for visuals, design, and overall user experience.
 
 ---
 
