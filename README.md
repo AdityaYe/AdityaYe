@@ -2,17 +2,17 @@
 
 **`Full Stack Developer • 3D Artist`**
 
-Full Stack Developer focused on creating modern and user-friendly web experiences. I mainly work with React, Next.js, Node.js, and MongoDB. I’m also familiar with 3D art and game asset creation, which gives me a strong eye for visuals, design, and overall user experience.
+Full Stack Developer focused on building modern, scalable, and user-focused web applications. I enjoy creating responsive interfaces, interactive frontend experiences, and clean application architecture using modern JavaScript technologies. Most of my work revolves around React, Next.js, Node.js, and MongoDB, with a strong interest in frontend engineering, UI/UX, and performance optimization. I like turning ideas into polished digital products while continuously exploring better workflows, design systems, and full stack development practices.
 
 ---
 
-# Tech Stack
+## Tech Stack
 
 [![Developer Skills](https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,redux,nodejs,express,mongodb,git,github&theme=light)](https://skillicons.dev)
 
 ---
 
-# Projects
+## Projects
 
 <table>
 <tr>
@@ -52,18 +52,12 @@ A Steam-inspired dashboard and game discovery experience built with a focus on s
 
 ---
 
-# GitHub Stats
+## My 3D Work <a href="https://www.artstation.com/ozone_ay" target="_blank"><img src="./assets/artstation.svg" alt="ArtStation" width="22" /></a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaYe&layout=compact&theme=tokyonight&cache_seconds=1800)
+I also have experience and a strong interest in 3D art, game asset creation, and real-time workflows. Over time, I’ve worked on stylized assets, hard-surface models, product visualizations, and environment-focused projects, which helped me develop a strong eye for visuals, presentation, and design detail.
 
----
-
-# Creative Stack
+### Tools & Software
 
 [![Creative Skills](https://skillicons.dev/icons?i=blender,ps,pr,unreal,unity&theme=light)](https://skillicons.dev)
 
-<br>
-
-<a href="https://www.artstation.com/ozone_ay" target="_blank">
-  <img src="./assets/artstation.svg" alt="ArtStation" width="22" />
-</a>
+<sub><b>Also worked with:</b> Substance Painter, Quixel Mixer, Marmoset Toolbag</sub>
