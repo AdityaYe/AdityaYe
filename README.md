@@ -1,5 +1,5 @@
 # Aditya Yewale
-**`Full Stack Developer • Frontend Developer • Creative Technologist`**
+**`Full Stack Developer • 3D Artist`**
 
 ## About Me
 
