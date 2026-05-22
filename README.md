@@ -1,63 +1,32 @@
-<!--
-Profile README for Aditya Yewale
-Inspired by:
-- https://github.com/abhisheknaiidu/awesome-github-profile-readme
-- https://github.com/tandpfun/skill-icons
-- https://github.com/anuraghazra/github-readme-stats
--->
-
 # Aditya Yewale
-**`3D Artist • Game Asset Artist • Frontend Developer`**
+**`Full Stack Developer • Frontend Developer • Creative Technologist`**
 
 ## About Me
-- B.Tech CSE Graduate (Gaming Technology) from VIT Bhopal University
-- Passionate about 3D art, game asset creation, and frontend development
-- Focused on building stylized and realistic game-ready assets
-- Experienced with Blender, Substance Painter, Unreal Engine 5, React.js, and Next.js
-- Interested in game development, cinematic renders, and interactive web experiences
+
+I’m a Full Stack Developer with a strong focus on building modern, responsive, and scalable web applications. I enjoy creating clean user interfaces, interactive web experiences, and performance-focused applications using modern JavaScript frameworks. Alongside development, I also have a background in 3D art and game asset creation, which helps me bring a strong sense of design and visual detail into the products I build. Currently, I’m focused on improving my skills in React, Next.js, backend development, and full stack application architecture.
 
 ---
 
-## Skill Stack
+# 💻 Tech Stack
 
-### 3D & Game Art
-[![3D Skills](https://skillicons.dev/icons?i=blender,unreal,ps,pr&theme=light)](https://skillicons.dev)
+### Frontend
+[![Frontend Skills](https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,redux,vite&theme=light)](https://skillicons.dev)
 
-### Development
-[![Dev Skills](https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind,nodejs,git,github,vscode&theme=light)](https://skillicons.dev)
+### Backend
+[![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,postgres&theme=light)](https://skillicons.dev)
 
-**Also comfortable with:** Substance Painter, Premiere Pro, UI Design, Product Visualization, Low Poly & Stylized Workflows
+### Tools & Platforms
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel,netlify&theme=light)](https://skillicons.dev)
+
+### Creative Tools
+[![Creative Skills](https://skillicons.dev/icons?i=blender,ps,pr,unreal&theme=light)](https://skillicons.dev)
 
 ---
 
-# Projects - Showcase
+# 🚀 Projects
 
 <table>
   <tr>
-    <td align="center" width="33%">
-      <a href="#">
-        <img src="https://images.unsplash.com/photo-1542751371-adc38448a05e?q=80&w=1200&auto=format&fit=crop"
-             alt="Post Apocalyptic Vehicle"
-             style="width:100%; height:200px; object-fit:cover;"/>
-      </a>
-      <br/>
-      <b>Post-Apocalyptic Vehicle</b><br/>
-      <sub>Mad Max inspired custom vehicle created in Blender with realistic detailing and modifications.</sub><br/>
-      <sub>Tags: Blender, Hard Surface, Vehicle Design</sub>
-    </td>
-
-    <td align="center" width="33%">
-      <a href="#">
-        <img src="https://images.unsplash.com/photo-1511512578047-dfb367046420?q=80&w=1200&auto=format&fit=crop"
-             alt="Game Asset Project"
-             style="width:100%; height:200px; object-fit:cover;"/>
-      </a>
-      <br/>
-      <b>Stylized Game Assets</b><br/>
-      <sub>Created optimized low poly and stylized game-ready assets for portfolio and personal projects.</sub><br/>
-      <sub>Tags: Game Art, Low Poly, Substance Painter</sub>
-    </td>
-
     <td align="center" width="33%">
       <a href="#">
         <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?q=80&w=1200&auto=format&fit=crop"
@@ -65,56 +34,59 @@ Inspired by:
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
       <br/>
-      <b>Frontend Web Projects</b><br/>
-      <sub>Built responsive modern web applications using React.js, Next.js, and Tailwind CSS.</sub><br/>
-      <sub>Tags: React, Next.js, Tailwind CSS</sub>
+      <b>Modern Full Stack Applications</b><br/>
+      <sub>Built responsive and scalable web applications with React, Next.js, and modern backend technologies.</sub><br/>
+      <sub>Tags: React, Next.js, Full Stack</sub>
+    </td>
+
+    <td align="center" width="33%">
+      <a href="#">
+        <img src="https://images.unsplash.com/photo-1515879218367-8466d910aaa4?q=80&w=1200&auto=format&fit=crop"
+             alt="UI Project"
+             style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>Interactive UI Experiences</b><br/>
+      <sub>Designed and developed engaging user experiences with smooth animations and responsive layouts.</sub><br/>
+      <sub>Tags: UI/UX, Tailwind CSS, Frontend</sub>
+    </td>
+
+    <td align="center" width="33%">
+      <a href="#">
+        <img src="https://images.unsplash.com/photo-1542751371-adc38448a05e?q=80&w=1200&auto=format&fit=crop"
+             alt="Creative Development"
+             style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>Creative Development</b><br/>
+      <sub>Combining development and visual design to create immersive digital experiences and creative projects.</sub><br/>
+      <sub>Tags: Creative Tech, 3D, Web</sub>
     </td>
   </tr>
 </table>
 
 ---
 
-## Experience
-
-### 3D Artist Intern — INFLUNEXUS
-**July 2024 – November 2024**
-
-- Worked on product advertisements and 3D promotional content
-- Created concept ads and cinematic renders
-- Collaborated on Olympics promotional assets
-- Developed product visualizations for brands including Warmex and Omna
-- Used Blender, Unreal Engine, Substance Painter, Photoshop, and Premiere Pro
-
----
-
-## GitHub Stats
+# 📊 GitHub Stats
 
 ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 
 ---
 
-## Currently Learning
-- Unreal Engine 5 Blueprint System
-- Advanced Game Asset Workflow
-- Full Stack Web Development
-- Real-time Environment Creation
+# 🌐 Connect With Me
 
----
-
-## Links
-
-- Portfolio: Coming Soon
-- ArtStation: Coming Soon
-- YouTube: Coming Soon
-
-<a href="https://www.linkedin.com/" target="blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-</a>
-
-<a href="https://github.com/" target="blank">
+<a href="https://github.com/YOUR_USERNAME" target="blank">
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
 </a>
 
----
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+</a>
 
-![GIF](https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif)
+<a href="https://www.artstation.com/ozone_ay" target="blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="ArtStation" />
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
+</a>
