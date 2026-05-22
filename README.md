@@ -18,23 +18,33 @@ Full Stack Developer focused on creating modern and user-friendly web experience
 <tr>
 <td width="50%" align="center">
 
-<a href="#">
+<a href="https://github.com/AdityaYe/Game-Tok" target="_blank">
 <img src="./assets/GameTok.png" width="95%" style="border-radius:10px;" />
 </a>
 
-### GameTok
-<sub>Short-form gaming clip sharing platform with a modern social UI.</sub>
+### <a href="https://github.com/AdityaYe/Game-Tok" target="_blank">GameTok</a>
+
+<p>
+A short-form gaming clip sharing platform focused on modern UI, responsive design, and interactive social features inspired by current content-driven applications.
+</p>
+
+<sub><b>Tech Stack:</b> Next.js, React, Node.js, MongoDB, Tailwind CSS</sub>
 
 </td>
 
 <td width="50%" align="center">
 
-<a href="#">
+<a href="https://github.com/AdityaYe/STEAM100-Dashboard" target="_blank">
 <img src="./assets/Steam100.png" width="95%" style="border-radius:10px;" />
 </a>
 
-### Steam100
-<sub>Steam-inspired game discovery and browsing experience.</sub>
+### <a href="https://github.com/AdityaYe/STEAM100-Dashboard" target="_blank">Steam100</a>
+
+<p>
+A Steam-inspired dashboard and game discovery experience built with a focus on sleek layouts, modern frontend design, and smooth browsing interactions.
+</p>
+
+<sub><b>Tech Stack:</b> React, JavaScript, Tailwind CSS, API Integration</sub>
 
 </td>
 </tr>
@@ -44,7 +54,7 @@ Full Stack Developer focused on creating modern and user-friendly web experience
 
 # GitHub Stats
 
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaYe&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 ---
 
