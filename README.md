@@ -7,7 +7,7 @@ I’m a Full Stack Developer with a strong focus on building modern, responsive,
 
 ---
 
-# 💻 Tech Stack
+# Tech Stack
 
 ### Frontend
 [![Frontend Skills](https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,redux,vite&theme=light)](https://skillicons.dev)
@@ -23,7 +23,7 @@ I’m a Full Stack Developer with a strong focus on building modern, responsive,
 
 ---
 
-# 🚀 Projects
+# Projects
 
 <table>
   <tr>
@@ -67,13 +67,13 @@ I’m a Full Stack Developer with a strong focus on building modern, responsive,
 
 ---
 
-# 📊 GitHub Stats
+# GitHub Stats
 
 ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 
 ---
 
-# 🌐 Connect With Me
+# Connect With Me
 
 <a href="https://github.com/YOUR_USERNAME" target="blank">
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
@@ -84,9 +84,9 @@ I’m a Full Stack Developer with a strong focus on building modern, responsive,
 </a>
 
 <a href="https://www.artstation.com/ozone_ay" target="blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="ArtStation" />
+  <img src="https://skillicons.dev/icons?i=artstation" alt="ArtStation" />
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="yewale.aditya0503@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
 </a>
