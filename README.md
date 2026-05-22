@@ -10,16 +10,16 @@ I’m a Full Stack Developer with a strong focus on building modern, responsive,
 # Tech Stack
 
 ### Frontend
-[![Frontend Skills](https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,redux,vite&theme=light)](https://skillicons.dev)
+[![Frontend Skills](https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,redux&theme=light)](https://skillicons.dev)
 
 ### Backend
-[![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,postgres&theme=light)](https://skillicons.dev)
+[![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=light)](https://skillicons.dev)
 
 ### Tools & Platforms
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel,netlify&theme=light)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github&theme=light)](https://skillicons.dev)
 
 ### Creative Tools
-[![Creative Skills](https://skillicons.dev/icons?i=blender,ps,pr,unreal&theme=light)](https://skillicons.dev)
+[![Creative Skills](https://skillicons.dev/icons?i=blender,ps,pr,unreal,unity&theme=light)](https://skillicons.dev)
 
 ---
 
@@ -73,20 +73,20 @@ I’m a Full Stack Developer with a strong focus on building modern, responsive,
 
 ---
 
-# Connect With Me
+# Links
 
-<a href="https://github.com/YOUR_USERNAME" target="blank">
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
-</a>
-
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="blank">
+<a href="https://www.linkedin.com/in/adityayewale03" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
 
-<a href="https://www.artstation.com/ozone_ay" target="blank">
-  <img src="https://skillicons.dev/icons?i=artstation" alt="ArtStation" />
+<a href="https://github.com/YOUR_USERNAME" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
 </a>
 
-<a href="yewale.aditya0503@gmail.com">
+<a href="https://www.artstation.com/ozone_ay" target="_blank">
+  <img src="./assets/artstation.svg" alt="ArtStation" width="50" height="50" />
+</a>
+
+<a href="mailto:yewale.aditya0503@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
 </a>
