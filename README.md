@@ -18,22 +18,6 @@ Full Stack Developer focused on building modern, scalable, and user-focused web 
 <tr>
 <td width="50%" align="center">
 
-<a href="https://github.com/AdityaYe/Game-Tok" target="_blank">
-<img src="./assets/GameTok.png" width="95%" style="border-radius:10px;" />
-</a>
-
-### <a href="https://github.com/AdityaYe/Game-Tok" target="_blank">GameTok</a>
-
-<p>
-A short-form gaming clip sharing platform focused on modern UI, responsive design, and interactive social features inspired by current content-driven applications.
-</p>
-
-<sub><b>Tech Stack:</b> Next.js, React, Node.js, MongoDB, Tailwind CSS</sub>
-
-</td>
-
-<td width="50%" align="center">
-
 <a href="https://github.com/AdityaYe/STEAM100-Dashboard" target="_blank">
 <img src="./assets/Steam100.png" width="95%" style="border-radius:10px;" />
 </a>
@@ -45,6 +29,22 @@ A Steam-inspired dashboard and game discovery experience built with a focus on s
 </p>
 
 <sub><b>Tech Stack:</b> React, JavaScript, Tailwind CSS, API Integration</sub>
+
+</td>
+
+<td width="50%" align="center">
+
+<a href="https://github.com/AdityaYe/Game-Tok" target="_blank">
+<img src="./assets/GameTok.png" width="95%" style="border-radius:10px;" />
+</a>
+
+### <a href="https://github.com/AdityaYe/Game-Tok" target="_blank">GameTok</a>
+
+<p>
+A short-form gaming clip sharing platform focused on modern UI, responsive design, and interactive social features inspired by current content-driven applications.
+</p>
+
+<sub><b>Tech Stack:</b> Next.js, React, Node.js, MongoDB, Tailwind CSS</sub>
 
 </td>
 </tr>
