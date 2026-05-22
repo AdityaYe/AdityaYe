@@ -1,7 +1,6 @@
-# Aditya Yewale
-**`Full Stack Developer • 3D Artist`**
+# Aditya Yewale <a href="https://www.linkedin.com/in/adityayewale03" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="22" /></a> <a href="mailto:yewale.aditya0503@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="22" /></a>
 
-## About Me
+**`Full Stack Developer • 3D Artist`**
 
 I’m a Full Stack Developer with a strong focus on building modern, responsive, and scalable web applications. I enjoy creating clean user interfaces, interactive web experiences, and performance-focused applications using modern JavaScript frameworks. Alongside development, I also have a background in 3D art and game asset creation, which helps me bring a strong sense of design and visual detail into the products I build. Currently, I’m focused on improving my skills in React, Next.js, backend development, and full stack application architecture.
 
@@ -9,17 +8,7 @@ I’m a Full Stack Developer with a strong focus on building modern, responsive,
 
 # Tech Stack
 
-### Frontend
-[![Frontend Skills](https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,redux&theme=light)](https://skillicons.dev)
-
-### Backend
-[![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=light)](https://skillicons.dev)
-
-### Tools & Platforms
-[![Tools](https://skillicons.dev/icons?i=git,github&theme=light)](https://skillicons.dev)
-
-### Creative Tools
-[![Creative Skills](https://skillicons.dev/icons?i=blender,ps,pr,unreal,unity&theme=light)](https://skillicons.dev)
+[![Developer Skills](https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,redux,nodejs,express,mongodb,git,github&theme=light)](https://skillicons.dev)
 
 ---
 
@@ -73,20 +62,12 @@ I’m a Full Stack Developer with a strong focus on building modern, responsive,
 
 ---
 
-# Links
+# Creative Stack
 
-<a href="https://www.linkedin.com/in/adityayewale03" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-</a>
+[![Creative Skills](https://skillicons.dev/icons?i=blender,ps,pr,unreal,unity&theme=light)](https://skillicons.dev)
 
-<a href="https://github.com/YOUR_USERNAME" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
-</a>
+<br>
 
 <a href="https://www.artstation.com/ozone_ay" target="_blank">
-  <img src="./assets/artstation.svg" alt="ArtStation" width="50" height="50" />
-</a>
-
-<a href="mailto:yewale.aditya0503@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
+  <img src="./assets/artstation.svg" alt="ArtStation" width="22" />
 </a>
