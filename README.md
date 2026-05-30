@@ -8,7 +8,7 @@ Full Stack Developer focused on building modern, scalable, and user-focused web 
 
 ## Tech Stack
 
-[![Developer Skills](https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,redux,nodejs,express,mongodb,git,github&theme=light)](https://skillicons.dev)
+[![Developer Skills](https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,redux,nodejs,express,mongodb,mysql,git,github&theme=light)](https://skillicons.dev)
 
 ---
 
