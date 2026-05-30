@@ -52,7 +52,7 @@ A short-form gaming clip sharing platform focused on modern UI, responsive desig
 
 ---
 
-## My 3D Work <a href="https://www.artstation.com/ozone_ay" target="_blank"><img src="./assets/artstation.svg" alt="ArtStation" width="26" /></a>
+## My 3D Work <a href="https://www.artstation.com/ozone_ay" target="_blank"><img src="./assets/artstation.svg" alt="ArtStation" width="21" /></a>
 
 I also have experience and a strong interest in 3D art, game asset creation, and real-time workflows. Over time, I’ve worked on stylized assets, hard-surface models, product visualizations, and environment-focused projects, which helped me develop a strong eye for visuals, presentation, and design detail.
 
