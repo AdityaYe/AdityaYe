@@ -1,6 +1,6 @@
 # Aditya Yewale <a href="https://www.linkedin.com/in/adityayewale03" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="22" /></a> <a href="mailto:yewale.aditya0503@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="22" /></a>
 
-**`Full Stack Developer • 3D Artist`**
+**`Full Stack Developer`**
 
 Full Stack Developer focused on building modern, scalable, and user-focused web applications. I enjoy creating responsive interfaces, interactive frontend experiences, and clean application architecture using modern JavaScript technologies. Most of my work revolves around React, Next.js, Node.js, and MongoDB, with a strong interest in frontend engineering, UI/UX, and performance optimization. I like turning ideas into polished digital products while continuously exploring better workflows, design systems, and full stack development practices.
 
@@ -54,7 +54,7 @@ A short-form gaming clip sharing platform focused on modern UI, responsive desig
 
 ## My 3D Work <a href="https://www.artstation.com/ozone_ay" target="_blank"><img src="./assets/artstation.svg" alt="ArtStation" width="21" /></a>
 
-I also have experience and a strong interest in 3D art, game asset creation, and real-time workflows. Over time, I’ve worked on stylized assets, hard-surface models, product visualizations, and environment-focused projects, which helped me develop a strong eye for visuals, presentation, and design detail.
+I also have interest in 3D art, game asset creation, and real-time workflows. Over time, I’ve worked on stylized assets, hard-surface models, product visualizations, and environment-focused projects, which helped me develop a strong eye for visuals, presentation, and design detail.
 
 ### Tools & Software
 
